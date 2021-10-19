@@ -11,7 +11,7 @@ export const Random = ({ title, content }) => {
             <div className="column is-10 is-offset-1">
                 <div className="section">
                 <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
-                    Hello World
+                    Hello World Staging
                 </h2>
                 </div>
             </div>
